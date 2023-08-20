@@ -9,6 +9,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-cloudflare": "^2.3.2",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "^10.4.13",
 		"postcss": "^8.4.19",
